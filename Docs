@@ -1,1 +1,10 @@
 for UI sketches, dev notes, etc.
+🔹 Core Features:
+Module	                      Feature Example
+Authentication	              Sign up / Login / Logout
+Dashboard	                    Summary of income, expenses, balance
+Expense Tracker	              Add/edit/delete expenses
+Income Tracker	              Add/edit/delete income
+Category Mgmt                	Food, Travel, Bills, etc.
+Analytics                    	Graphs, charts (monthly view)
+Settings	                    Profile edit, theme, logout
